@@ -1,0 +1,11 @@
+[06-Feb-2019 15:27:22 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 17
+[06-Feb-2019 15:27:33 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 17
+[06-Feb-2019 15:28:19 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 17
+[06-Feb-2019 15:29:16 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 17
+[06-Feb-2019 15:30:44 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 17
+[06-Feb-2019 15:31:21 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 20
+[06-Feb-2019 15:31:45 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 21
+[06-Feb-2019 15:32:37 Asia/Jakarta] PHP Fatal error:  Call to a member function parse() on a non-object in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 21
+[06-Feb-2019 20:33:35 Asia/Jakarta] PHP Fatal error:  Class 'REST_Controller' not found in /home/kentoesc/public_html/rsparu/application/controllers/API/KelompokController.php on line 14
+[09-Feb-2019 09:44:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/kentoesc/public_html/rsparu/application/controllers/Main_C.php on line 1
+[11-Feb-2019 18:55:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::lats_query() in /home/kentoesc/public_html/rsparu/application/models/PasienOld/PasienModel.php on line 86

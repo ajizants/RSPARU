@@ -1,0 +1,61 @@
+------------------------------------------------------------------------------
+--------------------------------------TENSI-----------------------------------
+Anamnesia
+
+PTV
+-Tekanan Darah
+-Frekuensi Nadi
+-Frekuensi Nafas
+-Suhu
+-Keluhan Nyeri (Y/T)
+-Skala
+
+SKRINING NUTRISI
+-Berat Badan
+-TInggi Badan
+-Kehilangan BB (Y/T)
+-Penurunan Asupan Makan (Y/T)
+
+ANAMNESIA
+-Keluhan Utama
+-Riwayat Penyakit Sekarang
+-Riwayat Penyakit Dahulu
+	--Tidak Ada
+	--Hipertensi
+	--Asma
+	--TBC
+	--DM
+	--Penyakit Ginjal
+	--Penyakit Jantung
+	--Lain-Lain
+-Riwayat Operasi (Y/T)
+-Riwayat Alergi	(Y/T)
+-Riwayat Alergi	(Reaksi)
+-Riwayat Penyakit Keluarga (Y/T)
+-Riwayat Penyakit Keluarga (Jenis Penyakit)
+-Riwayat Pengobatan (Y/T)
+-Riwayat Pengobatan (Jenis Pengobatan)
+-Riwayat Merokok (Y/T)
+-Riwayat Alkohol (Y/T)
+
+------------------------------------TENSI-----------------------------------
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+-------------------------------------POLI-----------------------------------
+
+Pemeriksaan Fisik & Penunjang
+Dada : Paru & Jatung
+-Inspeksi
+-Palpasi
+-Perkusi
+-Askulasi
+-Cor
+-Hepar
+-Limpa
+-Extrimitaes
+
+-------------------------------------POLI-----------------------------------
+----------------------------------------------------------------------------
